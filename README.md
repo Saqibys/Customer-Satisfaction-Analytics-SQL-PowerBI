@@ -152,10 +152,9 @@ The Power BI dashboard includes the following KPIs:
 | KPI | Result |
 |---|---:|
 | Total Calls | 32.941K |
-| Average Call Duration | 25.02 Minutes |
 | Average CSAT Score | 2.07 |
-| Positive Sentiment | 21.55% |
-| Within SLA | 62.61% |
+| CSAT Satisfaction | 29% |
+| Positive sentiment | 11.92% |
 
 These indicators provide a high-level overview of customer satisfaction and call center performance.
 
